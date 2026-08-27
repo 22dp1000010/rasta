@@ -1,0 +1,32 @@
+# env
+.env
+.env.local
+.env*.local
+!.env.example
+
+# deps / build
+node_modules/
+.next/
+out/
+build/
+.vercel/
+next-env.d.ts
+
+# test artifacts
+coverage/
+playwright-report/
+test-results/
+blob-report/
+.playwright/
+
+# tooling / os
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.eslintcache
+.turbo/
+tsconfig.tsbuildinfo
+.idea/
+.vscode/*
+!.vscode/extensions.json

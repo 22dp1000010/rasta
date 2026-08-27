@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" role="img" aria-label="Illustration - not a real photo. Mock registered vehicle plate TS09XX4477">
+  <rect width="420" height="220" fill="#f7f4e8"/>
+  <path d="M62 138C86 94 114 72 176 72h74c40 0 72 24 104 66Z" fill="#176b4d"/>
+  <rect x="80" y="130" width="270" height="38" rx="12" fill="#2c332f"/>
+  <circle cx="126" cy="172" r="22" fill="#222"/>
+  <circle cx="304" cy="172" r="22" fill="#222"/>
+  <rect x="158" y="138" width="112" height="24" rx="4" fill="#fffdf2" stroke="#111" stroke-width="3"/>
+  <text x="214" y="156" text-anchor="middle" font-family="monospace" font-size="17" font-weight="900">TS09XX4477</text>
+  <text x="18" y="28" font-family="monospace" font-size="13" fill="#26312b">ILLUSTRATION - NOT A REAL PHOTO</text>
+</svg>
