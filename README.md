@@ -2,6 +2,10 @@
 
 Rasta is a citizen-first prototype for the Build What Moves India challenge. It helps a vehicle owner understand a fictional e-challan, classify the likely dispute ground, see deadline clocks, prepare editable paperwork and simulate the result.
 
+## Live Demo
+
+[https://rasta-jade.vercel.app/]
+
 ## Run
 
 ```powershell
